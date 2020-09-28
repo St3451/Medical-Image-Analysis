@@ -10,6 +10,6 @@ Reports and code for [MIA](https://kurser.ku.dk/course/ndak10005u) assignments.
 ### 2. Segmentation
 * [Report](https://github.com/St3451/Medical-Image-Analysis/blob/master/Assignment2/stefano_pellegrini_handin2.pdf)
 * [Code1](https://github.com/St3451/Medical-Image-Analysis/blob/master/Assignment2/MIA_Segmentation_Basics.ipynb)
-* [Code1](https://github.com/St3451/Medical-Image-Analysis/blob/master/Assignment2/MIA_Segmentation_RW.ipynb)
-* [Code1](https://github.com/St3451/Medical-Image-Analysis/blob/master/Assignment2/MIA_Segmentation_Shape.ipynb)
+* [Code2](https://github.com/St3451/Medical-Image-Analysis/blob/master/Assignment2/MIA_Segmentation_RW.ipynb)
+* [Code3](https://github.com/St3451/Medical-Image-Analysis/blob/master/Assignment2/MIA_Segmentation_Shape.ipynb)
 
