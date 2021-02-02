@@ -17,7 +17,7 @@ Reports and code for [MIA](https://kurser.ku.dk/course/ndak10005u) assignments.
 * [Report](https://github.com/St3451/Medical-Image-Analysis/blob/master/Assignment3/stefano_pellegrini_handin3.pdf)
 * [Code](https://github.com/St3451/Medical-Image-Analysis/blob/master/Assignment3/assignment3.ipynb)
 
-### 4. Registration
+### 4. NN Registration
 * [Report](https://github.com/St3451/Medical-Image-Analysis/blob/master/Assignment4/stefano_pellegrini_handin4.pdf)
 * [Code - Set of points](https://github.com/St3451/Medical-Image-Analysis/blob/master/Assignment4/control_points_registration.ipynb)
 * [Code - Pixels intensities](https://github.com/St3451/Medical-Image-Analysis/blob/master/Assignment4/image_registration.ipynb)
